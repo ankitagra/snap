@@ -1,0 +1,4 @@
+https://towardsdatascience.com/neural-networks-for-option-pricing-danielcotto-c24569ad0bb
+https://blog.dataiku.com/using-deep-learning-for-better-option-pricing
+https://samuellee19.github.io/CSCI145_Option_Pricing/
+https://medium.com/riskfuel/ultra-fast-and-accurate-derivatives-pricing-with-deep-learning-2976a84bbc25
